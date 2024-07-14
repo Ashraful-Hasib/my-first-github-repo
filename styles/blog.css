@@ -1,2 +1,5 @@
 div{margin: 20px 50% 20px 20px; padding: 30px 50px 30px; background-color: rgb(204, 149, 255); font-family: 'Courier New', Courier, monospace;
 } .headers{ color: aliceblue;}
+div{display: block inline;}
+.second{ background-color: rgb(137, 10, 255);}
+.secondpara{ color: aliceblue;}
